@@ -5,65 +5,179 @@
 <h1 align="center">Theory Gets You a Degree. Deployments Get You a Job.</h1>
 
 <p align="center">
-  Stop watching videos. Start shipping code.
+  <strong>80+ hands-on labs | Real cloud infrastructure | Zero billing risk</strong>
 </p>
 
 <p align="center">
-  DeployU is a hands-on cloud learning platform. We provide <strong>real, risk-free, sandboxed</strong> AWS, Azure, and GCP environments so you can build, break, fix, and deploy production-grade applications. Our "Zero Billing Risk" model means you can learn on live infrastructure with a simple flat fee—no surprise cloud bills. Ever.
+  DeployU is a hands-on learning platform where you deploy real AI, Cloud, and DevOps projects on actual AWS, Azure, and GCP infrastructure. No simulations. No surprise bills. Just real experience that gets you hired.
 </p>
 
 <p align="center">
-  <strong><a href="https://deployu.ai">Start Learning Now</a></strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong><a href="https://deployu.ai/blog">Read Our Blog</a></strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong><a href="https://www.linkedin.com/company/deployu">Follow on LinkedIn</a></strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong><a href="https://x.com/deployuai">Follow on X (Twitter)</a></strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong><a href="https://discord.gg/deployu_64714">Join our Discord</a></strong>
+  <a href="https://deployu.ai"><img src="https://img.shields.io/badge/Start%20Learning-Free-success?style=for-the-badge" alt="Start Learning"></a>
+  <a href="https://deployu.ai/blog"><img src="https://img.shields.io/badge/Blog-Read-blue?style=for-the-badge" alt="Blog"></a>
+  <a href="https://discord.gg/deployu"><img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
 
-## 🚀 How It Works
+## What Makes DeployU Different
 
-1.  ➡️ **Pick a Lab:** Choose from our library of real-world projects, from building a GenAI Chatbot to fixing a broken cloud network.
-2.  📦 **Launch Your Sandbox:** We instantly provision a **real, dedicated** AWS, Azure, or GCP account for you.
-3.  🛠️ **Build, Break, & Fix:** Use your repo and the real cloud console to deploy the app, debug real-world errors, and learn by doing.
-4.  🏆 **Build Your Portfolio:** You've just built a project that *proves* you're job-ready.
+| Traditional Learning | DeployU |
+|---------------------|---------|
+| Watch videos about Docker | Build and deploy Docker containers |
+| Read about Kubernetes | Debug real CrashLoopBackOff errors |
+| Study AWS architecture diagrams | Deploy a RAG chatbot on real AWS |
+| Memorize interview answers | Build portfolio projects you can demo |
 
-##  featured Portfolio Projects
+**Result:** You walk into interviews with real projects, not just theory.
 
-These are the real-world, production-ready labs you can build on DeployU right now.
+---
 
-| Project | Description | Hireable Skills |
-| :--- | :--- | :--- |
-| **Retrieval-Augmented Generation (RAG)** | Build an intelligent, context-aware AI chatbot using **Amazon Bedrock**, S3, and a vector database. | `GenAI`, `AWS Bedrock`, `RAG` |
-| **AI-Powered Identity Verification** | Build a real-world facial recognition login system using **Amazon Rekognition** and API Gateway. | `AI/ML`, `Rekognition`, `Serverless` |
-| **Auto-Scaling Web Application** | Build a high-availability system that automatically scales (like Hotstar) using **ALB** and **ASG**. | `AWS`, `Networking`, `Auto Scaling` |
-| **Build a Secure Cloud Network (VPC)** | Build a secure "digital fortress" from scratch with public & private subnets, just like a real company. | `Security`, `AWS VPC`, `Networking` |
+## 80+ Hands-On Labs
 
-## 💻 Technologies We Teach
+### Container & Orchestration (24 Labs)
 
-We focus on the specific tools and services that companies are actively hiring for.
+| Category | Labs | What You'll Build |
+|----------|------|-------------------|
+| **Docker** | 8 | Multi-stage builds, networking, security, debugging |
+| **Kubernetes** | 10 | Deployments, services, ingress, RBAC, troubleshooting |
+| **Linux** | 6 | System admin, scripting, permissions, processes |
+
+### DevOps & CI/CD (24 Labs)
+
+| Category | Labs | What You'll Build |
+|----------|------|-------------------|
+| **Git & GitHub** | 6 | Branching strategies, merge conflicts, workflows |
+| **GitHub Actions** | 5 | CI/CD pipelines, deployments, secrets management |
+| **Terraform** | 7 | Infrastructure as code, modules, state management |
+
+### Databases (18 Labs)
+
+| Category | Labs | What You'll Build |
+|----------|------|-------------------|
+| **PostgreSQL** | 6 | Queries, indexes, optimization, replication |
+| **MySQL** | 6 | Schema design, transactions, performance |
+| **MongoDB** | 6 | Document modeling, aggregation, sharding |
+
+### AI & Machine Learning (9 Labs)
+
+| Category | Labs | What You'll Build |
+|----------|------|-------------------|
+| **AI/ML Foundations** | 9 | RAG chatbots, embeddings, prompt engineering, vector databases |
+
+### Programming & DSA (8 Labs)
+
+| Category | Labs | What You'll Build |
+|----------|------|-------------------|
+| **DSA** | 8 | Algorithms, data structures, problem-solving |
+
+---
+
+## Featured Portfolio Projects
+
+Build these on real cloud infrastructure - perfect for interviews.
+
+| Project | What You'll Build | Skills Demonstrated |
+|---------|-------------------|---------------------|
+| **RAG Chatbot** | AI chatbot with document retrieval using Amazon Bedrock | GenAI, AWS, Vector DB |
+| **AI Identity Verification** | Facial recognition system with Amazon Rekognition | AI/ML, Serverless, APIs |
+| **Auto-Scaling Application** | High-availability system like Hotstar | AWS, ALB, ASG, Networking |
+| **Secure Cloud Network** | Multi-tier VPC with security zones | AWS VPC, Security, IAM |
+| **Kubernetes Microservices** | Production-ready K8s deployment | Docker, K8s, Helm |
+| **CI/CD Pipeline** | Full GitOps workflow with GitHub Actions | DevOps, Automation, IaC |
+
+---
+
+## Technologies We Teach
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-4A2B8D?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Bedrock" />
-  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI Services" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-## Join Our Community
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-This is where the 1% of engineers share what they're building.
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
 
-* 💬 **[Join our Discord](https://discord.gg/deployu_64714):** The best place to get help, meet other builders, and get career advice.
-* 🧠 **[Read Our Blog](https://deployu.ai/blog):** Get real-world "Build, Break, Fix" stories from our senior architects.
-* 🚀 **[Start Learning Now](https://deployu.ai/):** Get your first risk-free sandbox and start building your portfolio.
+---
+
+## How It Works
+
+```
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│  1. Pick a Lab  │────>│ 2. Get Sandbox  │────>│ 3. Build & Fix  │────>│ 4. Add to       │
+│                 │     │                 │     │                 │     │    Portfolio    │
+│  Choose from    │     │  Real AWS/GCP   │     │  Deploy, debug, │     │  Proof you're   │
+│  80+ projects   │     │  in seconds     │     │  fix real bugs  │     │  job-ready      │
+└─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘
+```
+
+**Zero Billing Risk:** Flat monthly fee. No surprise cloud bills. Ever.
+
+---
+
+## Free Interview Prep
+
+We open-sourced 320+ interview questions. Star the repo and use it for free:
+
+**[gsraju27/ai-cloud-devops-roadmap](https://github.com/gsraju27/ai-cloud-devops-roadmap)**
+
+- Docker, Kubernetes, Terraform questions
+- AWS, Azure, GCP scenarios
+- Python, JavaScript, React questions
+- 4 complete career roadmaps
+
+---
+
+## Learning Paths
+
+| Path | Duration | Outcome |
+|------|----------|---------|
+| **DevOps Engineer** | 3-6 months | Docker, K8s, Terraform, CI/CD |
+| **Cloud Engineer** | 3-6 months | AWS/GCP, Networking, Security |
+| **AI/ML Engineer** | 4-8 months | GenAI, RAG, MLOps |
+| **Full-Stack Developer** | 4-6 months | React, Node.js, Databases |
+
+---
+
+## Join 1,000+ Engineers
+
+<p align="left">
+  <a href="https://discord.gg/deployu"><img src="https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.linkedin.com/company/deployu"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/deployuai"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.youtube.com/@deployu"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
+
+---
+
+## Get Started
+
+<p align="center">
+  <a href="https://deployu.ai">
+    <img src="https://img.shields.io/badge/Deploy_Your_First_Project-Free_Trial-success?style=for-the-badge&labelColor=000000" alt="Start Free">
+  </a>
+</p>
+
+<p align="center">
+  No credit card required. Deploy your first project in 5 minutes.
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with love by the DeployU team</sub>
+</p>
