@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lightbooks-Technologies/.github/main/profile/assets/wordmark-light.svg">
-    <img src="https://raw.githubusercontent.com/Lightbooks-Technologies/.github/main/profile/assets/wordmark-dark.svg" width="300" alt="DeployU">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Lightbooks-Technologies/.github/main/profile/assets/wordmark-card.png" width="360" alt="DeployU">
 </p>
 
 <h1 align="center">Theory gets you a degree. Deployment gets you a job.</h1>
